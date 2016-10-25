@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7ae7f2d8-6bea-4a26-b60c-385a1f175cf3" name="astar" url="http://cp.astar.edu.vn">
+        <fileTransfer host="cp.astar.edu.vn" port="" username="cp@astar.edu.vn">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

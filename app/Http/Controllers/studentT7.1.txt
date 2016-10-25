@@ -1,0 +1,22 @@
+﻿1,Phạm Duy ,Anh,29/07/2004,0982559471,phamanh2004@gmail.com,,Lương Thế Vinh CS1,,Trần Thị Thanh Hương,0982559471,Huongcapa81@yahoo.com,,,T7.0
+2,Trịnh Yến,Bình,27/09/2004,0904106676,,,Lý Thái Tổ,,Trịnh Ngọc Hiển,0903276084,bangtaiviethq@gmail.com,26/07/2016,"22/07 Lâm: PH đk qua điện thoai, học cả T+A",T7.0
+3,Nguyễn Ngọc,Diệp,20/07/2004,01676316668,,,Giảng Võ,,Nguyễn Ngọc Lân,0903221379,ngoclan108hhtvp@gmail.com,06/12/2015,,T7.0
+4,Lê Hương ,Giang,29/06/2004,01253286699,,7A5,Nguyễn Tri Phương,,Trần Thùy Dương,0904101909 / 01272068899,thuyduong72@gmail.com,,,T7.0
+5,Nguyễn Thành,Huy,30/04/2004,0904583005,huycoi30@gmail.com,,Đoàn Thị Điểm,,Em Mai/Nguyễn Thanh Hoàn,0904642000/0913225205(Hoàn),thanhnguyen2000@gmail.com,,,T7.0
+6,Phạm,Hữu,03/11/2004,0912308689,phamhuu1104@gmail.com,,Chu Văn An,,Trần Thanh Thúy,0912308689,phamhuu1104@gmail.com,06/12/2015,,T7.0
+7,Nguyễn Hoàng Khánh,ZLinh,30/11/2004,,,,Giảng Võ,,Hoàng Thanh Nhàn,0902282326,hoangnhan.bca@gmail.com,02/08/2016," 12/09 Lâm: xin nghỉ vì trùng lịch, ở CS2 cũng ko học đc vì ko ai đưa đón ",T7.0
+8,Vũ Nguyệt ,Linh,08/09/2004,0913279211,,,Đống Đa,,Vũ Nguyệt Hà lớp T11.1,0913279211,nguyethalinh@gmail.com,,,T7.0
+9,Vũ Trần Hoàng,Long,29/11/2004,0912622929,,,Marie Curie,,,0912622929,pdiemquynh@yahoo.com,10/01/2016,,T7.0
+10,Nguyễn Hồng,Minh,09/05/2004,0912528824,,7M2,Marie Curie,, Ngô Quỳnh Thu , 0912528824 ,quynhthungo@gmail.com,06/09/2016,,T7.0
+11,Tạ Đức,Minh,25/11/2004,0983013488,đã xếp lớp kiểm tra đầu vào,,THCS Khương Thượng,, Nguyễn Thị Phấn , 0983013488 ,phannt711@gmail.com,,,T7.0
+12,Ngô Thu ,Ngân,16/06/2004,0888800900,,,Thanh Liệt,,Ngô Ngọc Trọng,0888800900,nntrong@gmail.com,,,T7.0
+13,Nguyễn Như Ngọc,Tiến,28/10/2004,0975211675,,,THCS Ngô Sĩ Liên,,Nguyễn Thị Mỹ Dung,0904183780,dung.ltmy@gmail.com,06/12/2015, Miễn học phí  - cháu A.Thắng ,T7.0
+14,Trương Vĩnh,Xuân,,,,,,,Chị Thủy,0888596996,,30/08/2016,,T7.0
+15,Nguyễn Thị Châu,ZAn,15/11/2004,01667785592,quynhntt1@prep.com.vn,,Archimedes Academy,,C quỳnh,01667785592,quynhntt1@prep.com.vn,, Chuyển lại lớp TC7.1 ,T7.0
+16,Võ Việt,ZAn,27/03/2004,,,,Ngô Sỹ Liên,,Võ Anh Tú,0912721739,tuva1968@gmail.com,20/03/2016," 11/07 yến phụ huynh báo thứ 3 ngày 12/07 con đi học được sẽ đến, còn ko đến thì sẽ  ",T7.0
+17,Nguyễn Trung ,ZKiên,18/02/2002,,,,Mỹ Đình,,Đào Ngọc Ánh ,0986986446,,28/06/2016," Trung nhận đăng ký và kiểm tra ngày 27/6, 04/07 XIN NGHỈ HẲN YẾN ",T7.0
+18,Đỗ Hiểu,ZKhánh,07/10/2002,,,,Phan Đình Giót,,Nguyễn Kim Chi,0942296086,nguyenkimchius@gmail.com,," Tiếp nhận 26/6 học cả TVA 7, 04/07 XIN NGHỈ HẲN YẾN ",T7.0
+19,Hoàng Đông ,ZPhong,30/05/2004,0983227708,,,Ams,,Cao Hải Yến,0983227708,dieulinhams@gmail.com,13/12/2015, Miễn học phí  - TT (con c Yến) ,T7.0
+20,Ngô Nhật ,ZQuang,19/03/2004,,,,Ngôi sao,,Lê Thị Nga,0989657246,ngatom04@yahoo.com,20/03/2016, trùng lịch học ,T7.0
+21,Thiềm Thanh,ZThảo,,,6,,,,,0903667766,,, 07/07 Lâm : ko phải sđt của PH e Thanh Thảo ( 09/07 YẾN đã kiểm tra lại ghi danh và bài kiểmt tra học sinh đều ko thấy đúng số) ,T7.0
+22,Đàm Đức,ZTrung,07/12/2004,,,7C2,Achimedes Academy,,,0989977595,quynhchile@gmail.com,, 07/07 Lâm: Trùng lịch học ,T7.0

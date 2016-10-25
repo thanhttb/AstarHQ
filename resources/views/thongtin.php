@@ -1,0 +1,1 @@
+Tôi tên: <?php echo $hoten;?>

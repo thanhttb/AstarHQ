@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\xamp\\htdocs\\laravel\\Se10"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\xamp\\htdocs\\liendo"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\xamp\\htdocs\\QuickTutor"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\xamp\\htdocs\\Se10\\QuickTutor"
+		}
+	]
+}
